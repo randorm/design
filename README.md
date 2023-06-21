@@ -29,15 +29,30 @@ Where the letters `b`, `t`, and `w` stand for:
 
 ## Usage
 
-| Statement                                                                                                                                                                                     | Permitted |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Use a permitted Randorm logo to link to Randorm.                                                                                                                                              | Yes       |
-| Use the Randorm logo in a blog post or news article about Randorm.                                                                                                                            | Yes       |
-| Use the permitted Randorm logos less prominently than your own company or product name or logo.                                                                                               | Yes       |
-| Do not use the Randorm name or any Randorm logo in a way that suggests you are Randorm, your offering or project is by Randorm, or that Randorm is endorsing you or your offering or project. | No        |
-| Do not use any Randorm logo as the icon or logo for your business/organization, offering, project, domain name, social media account, or website.                                             | No        |
-| Do not modify the permitted Randorm logos, including changing the color, dimensions, or combining with other words or design elements.                                                        | No        |
-| Do not use Randorm trademarks, logos, or artwork without Randorm’s prior written permission.                                                                                                  | No        |
+Do these awesome things:
+
+1. Use a permitted Randorm logo to link to Randorm.
+
+2. Use the Randorm logo in a blog post or news article about Randorm.
+
+3. Use the permitted Randorm logos less prominently than your own company or
+   product name or logo.
+
+Please don’t do these things:
+
+1. Do not use the Randorm name or any Randorm logo in a way that suggests you
+   are Randorm, your offering or project is by Randorm, or that Randorm is
+   endorsing you or your offering or project.
+
+2. Do not use any Randorm logo as the icon or logo for your
+   business/organization, offering, project, domain name, social media account,
+   or website.
+
+3. Do not modify the permitted Randorm logos, including changing the color,
+   dimensions, or combining with other words or design elements.
+
+4. Do not use Randorm trademarks, logos, or artwork without Randorm’s prior
+   written permission.
 
 ## Legal
 
